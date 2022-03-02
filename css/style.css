@@ -153,16 +153,16 @@ ul{
     #bg-color1{
       background-color: blueviolet;
     }
-    #bg-color2{
+    .bg-color2{
       background-color:green ;
     }
-    #bg-color3{
+    .bg-color3{
       background-color: orangered;
     }
-    #bg-color4{
+    .bg-color4{
       background-color: rosybrown;
     }
-    #bg-color5{
+    .bg-color5{
       background-color: greenyellow;
     }
   
